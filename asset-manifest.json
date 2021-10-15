@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/teachers-blood-bank/static/css/main.c3c99d8b.chunk.css",
+    "main.js": "/teachers-blood-bank/static/js/main.f7ecee61.chunk.js",
+    "main.js.map": "/teachers-blood-bank/static/js/main.f7ecee61.chunk.js.map",
+    "runtime-main.js": "/teachers-blood-bank/static/js/runtime-main.8e37250b.js",
+    "runtime-main.js.map": "/teachers-blood-bank/static/js/runtime-main.8e37250b.js.map",
+    "static/js/2.c9e7a3ef.chunk.js": "/teachers-blood-bank/static/js/2.c9e7a3ef.chunk.js",
+    "static/js/2.c9e7a3ef.chunk.js.map": "/teachers-blood-bank/static/js/2.c9e7a3ef.chunk.js.map",
+    "index.html": "/teachers-blood-bank/index.html",
+    "static/css/main.c3c99d8b.chunk.css.map": "/teachers-blood-bank/static/css/main.c3c99d8b.chunk.css.map",
+    "static/js/2.c9e7a3ef.chunk.js.LICENSE.txt": "/teachers-blood-bank/static/js/2.c9e7a3ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e37250b.js",
+    "static/js/2.c9e7a3ef.chunk.js",
+    "static/css/main.c3c99d8b.chunk.css",
+    "static/js/main.f7ecee61.chunk.js"
+  ]
+}
