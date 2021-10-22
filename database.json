@@ -8,13 +8,22 @@
       "district": "Idukki",
       "state": "Kerala",
       "country": "India"
-    }
+    },
     {
       "name": "Anju Gopan",
       "phone": "1234567890",
       "blood_group": "O+ve",
       "address": "Edappally North",
       "district": "Ernakulam",
+      "state": "Kerala",
+      "country": "India"
+    },
+    {
+      "name": "Nithin Alex",
+      "phone": "8281363905",
+      "blood_group": "O-ve",
+      "address": "Karippuram",
+      "district": "Kollam",
       "state": "Kerala",
       "country": "India"
     }
